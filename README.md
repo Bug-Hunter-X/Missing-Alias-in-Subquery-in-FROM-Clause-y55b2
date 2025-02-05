@@ -1,0 +1,1 @@
+This repository demonstrates a common SQL error involving missing aliases in subqueries used within the FROM clause. The bug.sql file shows the incorrect query, while bugSolution.sql presents the corrected version.  Understanding this error is crucial for writing efficient and error-free SQL queries.
