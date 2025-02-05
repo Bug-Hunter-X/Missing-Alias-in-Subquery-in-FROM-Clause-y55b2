@@ -1,0 +1,1 @@
+The following SQL query attempts to use a subquery in the FROM clause, but it doesn't alias the subquery, leading to an error.  SELECT * FROM (SELECT * FROM employees WHERE department = 'Sales');
