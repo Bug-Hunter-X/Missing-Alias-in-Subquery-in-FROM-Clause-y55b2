@@ -1,0 +1,1 @@
+To correct this, you must provide an alias for the subquery.  For example: SELECT * FROM (SELECT * FROM employees WHERE department = 'Sales') as SalesEmployees;
